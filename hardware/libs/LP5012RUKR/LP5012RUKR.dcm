@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LP5012RUKR
+D 12-Channel I2C constant-current RGB LED driver
+K
+F http://www.ti.com/lit/gpn/LP5012
+$ENDCMP
+#
+#End Doc Library
