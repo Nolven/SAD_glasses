@@ -3128,7 +3128,7 @@
 		(uuid "13c36c0d-fef7-4cce-b839-b790c4e6317a")
 	)
 	(junction
-		(at 166.37 78.74)
+		(at 194.31 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "152f10a3-c1e0-4788-a4de-aa69b1dffb63")
@@ -3146,13 +3146,13 @@
 		(uuid "335394f6-4fc8-494e-8e5e-fc5535b866f0")
 	)
 	(junction
-		(at 207.01 78.74)
+		(at 234.95 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3a3b561c-0152-4ff1-bce9-567071f63385")
 	)
 	(junction
-		(at 196.85 78.74)
+		(at 224.79 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "41b5c948-d963-4f6a-8057-2241f384fbad")
@@ -3164,10 +3164,10 @@
 		(uuid "455b7e30-4aac-4e1d-a53e-dd9a931ae3ec")
 	)
 	(junction
-		(at 165.1 95.25)
+		(at 255.27 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "535397d0-874c-4135-a68d-d1a55b221934")
+		(uuid "49bfb544-78a9-44e0-8cae-e14114143e81")
 	)
 	(junction
 		(at 97.79 142.24)
@@ -3176,7 +3176,7 @@
 		(uuid "54c7ac7b-f048-44da-a872-5782f9abb20b")
 	)
 	(junction
-		(at 212.09 78.74)
+		(at 240.03 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "55fa6447-5b8a-4aaa-9415-9ed157961fd3")
@@ -3194,19 +3194,25 @@
 		(uuid "587b70b6-b4dd-4d8c-9606-cbcc1e112c39")
 	)
 	(junction
-		(at 201.93 78.74)
+		(at 255.27 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5b0e6cd2-106e-4c6e-bbe4-98dc5b6d47cf")
+	)
+	(junction
+		(at 229.87 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5f337b25-5c35-4413-ad05-a28d9d85c800")
 	)
 	(junction
-		(at 185.42 95.25)
+		(at 255.27 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "67db559d-9e9a-49b5-913d-1aab75b51bb5")
+		(uuid "64343c73-f035-40c9-97fa-b6957ed42dba")
 	)
 	(junction
-		(at 217.17 78.74)
+		(at 245.11 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6c9bbf1f-8bd7-4b17-8cf8-2eb4493c5918")
@@ -3230,16 +3236,10 @@
 		(uuid "754b949d-91c4-4540-a0c0-7c87a11ab3a5")
 	)
 	(junction
-		(at 195.58 95.25)
+		(at 255.27 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7622bb71-cc0a-41ba-bd68-d37a153bd1a8")
-	)
-	(junction
-		(at 210.82 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7a1f72ed-202e-4dec-9336-f8e8c2f5e8c8")
+		(uuid "79d3b17d-9c3e-42dd-ad4f-3f4f5337b84d")
 	)
 	(junction
 		(at 224.79 142.24)
@@ -3248,13 +3248,7 @@
 		(uuid "7e5e76bb-07e3-46af-b434-c58cd6f604b0")
 	)
 	(junction
-		(at 215.9 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8054d072-f754-401c-a8a8-d83ff10d90d1")
-	)
-	(junction
-		(at 207.01 48.26)
+		(at 234.95 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "899ec3e0-25f0-446f-a834-c8f2a86b9d3f")
@@ -3266,43 +3260,31 @@
 		(uuid "9244d470-75e6-4230-8d16-4659b6848658")
 	)
 	(junction
-		(at 186.69 78.74)
+		(at 214.63 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "95e3bde2-62bf-40a9-a3ca-51595196f753")
 	)
 	(junction
-		(at 170.18 95.25)
+		(at 255.27 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "96f417e2-574e-4ae2-9204-650d1d24359e")
+		(uuid "9e3ac27a-4ff5-4ec0-bf51-eea79111b163")
 	)
 	(junction
-		(at 200.66 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9a54159a-9d7a-4af0-b5ff-13d404aa7029")
-	)
-	(junction
-		(at 190.5 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9f34d8aa-b13f-4544-a965-ea8d52381d20")
-	)
-	(junction
-		(at 186.69 25.4)
+		(at 214.63 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a2884619-b665-479e-8373-adecdc56ec62")
 	)
 	(junction
-		(at 181.61 78.74)
+		(at 209.55 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a2f1b0b3-6427-4927-ac72-61a7543d06e2")
 	)
 	(junction
-		(at 191.77 78.74)
+		(at 219.71 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a6077c16-d130-44e7-990f-49d470783650")
@@ -3314,34 +3296,58 @@
 		(uuid "aa48536e-3703-4793-b15d-f71c352b8997")
 	)
 	(junction
-		(at 201.93 33.02)
+		(at 255.27 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "add3abd1-79a2-4c63-876f-dfafd9e51eee")
+	)
+	(junction
+		(at 229.87 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ae82bcfa-6eeb-466e-856f-aa6f58d2d181")
 	)
 	(junction
-		(at 175.26 95.25)
+		(at 255.27 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b86e010e-29b2-448a-bc07-af09522fe438")
+		(uuid "b0947972-7839-461b-b4f0-b7d9ba468faa")
 	)
 	(junction
-		(at 189.23 20.32)
+		(at 255.27 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b141f86f-491c-4ea7-b6e0-ab692d29df6c")
+	)
+	(junction
+		(at 255.27 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b4678afd-f85d-47c4-add1-89ef21010bfc")
+	)
+	(junction
+		(at 255.27 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b97bc44f-b978-405b-9f4c-f958b2a19f47")
+	)
+	(junction
+		(at 255.27 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bb2eeb2e-57c2-426c-b7a0-92a479d6cb46")
+	)
+	(junction
+		(at 217.17 19.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cfc432d9-c1be-46b1-a9e5-0e9f2ba061d1")
 	)
 	(junction
-		(at 161.29 78.74)
+		(at 189.23 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d2222f30-999b-4d8d-a765-7e5dae0cc372")
-	)
-	(junction
-		(at 180.34 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d81ad929-74a0-4e22-8211-cb73cd74ae69")
 	)
 	(junction
 		(at 224.79 121.92)
@@ -3362,30 +3368,56 @@
 		(uuid "ea358708-37b3-4f3e-a21f-ae8bf0e07a14")
 	)
 	(junction
-		(at 171.45 78.74)
+		(at 199.39 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eab91608-93b9-40d3-a85c-a1598a2be667")
 	)
 	(junction
-		(at 205.74 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "eb031d5b-33f0-426d-b202-9c1807ebe746")
-	)
-	(junction
-		(at 176.53 78.74)
+		(at 204.47 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f6395658-a7ca-46cd-b4a5-00b32693ac0a")
+	)
+	(no_connect
+		(at 66.04 160.02)
+		(uuid "12e7b47d-8f56-40be-98cb-e5150353f2c2")
 	)
 	(no_connect
 		(at 63.5 53.34)
 		(uuid "262ffa68-38f0-4283-b1c1-1c491b8e9f4f")
 	)
 	(no_connect
+		(at 35.56 157.48)
+		(uuid "340bb870-b425-4d68-91db-dbc054d99954")
+	)
+	(no_connect
+		(at 66.04 154.94)
+		(uuid "400d2c52-9755-4a0d-910f-9f1187e143d8")
+	)
+	(no_connect
 		(at 63.5 66.04)
 		(uuid "5d6f7408-401b-470d-876a-381ece74ccdc")
+	)
+	(no_connect
+		(at 66.04 134.62)
+		(uuid "5e4bf011-8ea2-49bb-a736-40b47a1d6fe7")
+	)
+	(no_connect
+		(at 35.56 152.4)
+		(uuid "90a7e74b-9c48-4f64-8643-2efdfe8bddbb")
+	)
+	(no_connect
+		(at 66.04 162.56)
+		(uuid "9e03fb24-7a51-47bc-abad-ccbbb0bef437")
+	)
+	(no_connect
+		(at 66.04 137.16)
+		(uuid "a213386e-d4a1-4e8d-8e88-a7f2275911d9")
+	)
+	(no_connect
+		(at 66.04 157.48)
+		(uuid "c4696d1c-4fdf-4fa7-9e53-018b41733295")
 	)
 	(no_connect
 		(at 63.5 50.8)
@@ -3399,6 +3431,14 @@
 		(at 63.5 63.5)
 		(uuid "d789df50-ac6d-4c13-b8ab-74c19c64aa41")
 	)
+	(no_connect
+		(at 35.56 154.94)
+		(uuid "f7a82773-dc87-4a70-a02d-e5f743826da9")
+	)
+	(no_connect
+		(at 35.56 149.86)
+		(uuid "fd54f544-f03d-4c49-9920-3f99de8adc03")
+	)
 	(wire
 		(pts
 			(xy 214.63 142.24) (xy 224.79 142.24)
@@ -3411,7 +3451,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 55.88) (xy 171.45 55.88)
+			(xy 204.47 54.61) (xy 199.39 54.61)
 		)
 		(stroke
 			(width 0)
@@ -3441,7 +3481,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 19.05) (xy 189.23 20.32)
+			(xy 217.17 17.78) (xy 217.17 19.05)
 		)
 		(stroke
 			(width 0)
@@ -3451,7 +3491,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 25.4) (xy 186.69 22.86)
+			(xy 214.63 24.13) (xy 214.63 21.59)
 		)
 		(stroke
 			(width 0)
@@ -3461,7 +3501,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 78.74) (xy 161.29 82.55)
+			(xy 189.23 77.47) (xy 189.23 81.28)
 		)
 		(stroke
 			(width 0)
@@ -3481,17 +3521,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 95.25) (xy 185.42 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16b95160-a6e1-41cb-ac00-cd5f4aeb2bdd")
-	)
-	(wire
-		(pts
-			(xy 186.69 78.74) (xy 186.69 82.55)
+			(xy 214.63 77.47) (xy 214.63 81.28)
 		)
 		(stroke
 			(width 0)
@@ -3501,7 +3531,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 20.32) (xy 189.23 33.02)
+			(xy 217.17 19.05) (xy 217.17 31.75)
 		)
 		(stroke
 			(width 0)
@@ -3511,7 +3541,17 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 33.02) (xy 201.93 33.02)
+			(xy 85.09 147.32) (xy 85.09 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18fcc2fe-812f-4304-9e28-cf5de7f94ecf")
+	)
+	(wire
+		(pts
+			(xy 224.79 31.75) (xy 229.87 31.75)
 		)
 		(stroke
 			(width 0)
@@ -3521,23 +3561,13 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 78.74) (xy 212.09 82.55)
+			(xy 240.03 77.47) (xy 240.03 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "20fd5cc0-599c-4f58-8b23-b31a72df4fe3")
-	)
-	(wire
-		(pts
-			(xy 210.82 95.25) (xy 215.9 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2124ae18-c6f3-40e1-9c45-164a23e32f39")
 	)
 	(wire
 		(pts
@@ -3551,7 +3581,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 30.48) (xy 201.93 33.02)
+			(xy 229.87 29.21) (xy 229.87 31.75)
 		)
 		(stroke
 			(width 0)
@@ -3581,23 +3611,13 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 50.8) (xy 161.29 78.74)
+			(xy 189.23 49.53) (xy 189.23 77.47)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "2bfa56ac-8c64-41b8-bc42-5d158abf8b7b")
-	)
-	(wire
-		(pts
-			(xy 200.66 95.25) (xy 205.74 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c59143d-7d7f-4968-a7e0-bad3ef2179b5")
 	)
 	(wire
 		(pts
@@ -3621,7 +3641,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 78.74) (xy 207.01 82.55)
+			(xy 234.95 77.47) (xy 234.95 81.28)
 		)
 		(stroke
 			(width 0)
@@ -3631,17 +3651,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 95.25) (xy 210.82 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "356efd37-35f6-4750-8d5f-f8fbed7a035b")
-	)
-	(wire
-		(pts
-			(xy 176.53 78.74) (xy 176.53 82.55)
+			(xy 204.47 77.47) (xy 204.47 81.28)
 		)
 		(stroke
 			(width 0)
@@ -3651,17 +3661,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 95.25) (xy 180.34 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "362bc446-bb12-401a-ac9f-3c6f80d7a8d8")
-	)
-	(wire
-		(pts
-			(xy 217.17 78.74) (xy 217.17 82.55)
+			(xy 245.11 77.47) (xy 245.11 81.28)
 		)
 		(stroke
 			(width 0)
@@ -3671,17 +3671,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 95.25) (xy 195.58 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3c65ddfb-332d-4adb-a226-ff435f824218")
-	)
-	(wire
-		(pts
-			(xy 181.61 78.74) (xy 181.61 82.55)
+			(xy 209.55 77.47) (xy 209.55 81.28)
 		)
 		(stroke
 			(width 0)
@@ -3691,17 +3681,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 95.25) (xy 165.1 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "469bd450-21f2-4a38-b4be-87b351133859")
-	)
-	(wire
-		(pts
-			(xy 176.53 53.34) (xy 166.37 53.34)
+			(xy 204.47 52.07) (xy 194.31 52.07)
 		)
 		(stroke
 			(width 0)
@@ -3741,13 +3721,43 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 78.74) (xy 171.45 82.55)
+			(xy 255.27 63.5) (xy 255.27 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5099011b-9a10-4086-a41b-fed1b07707cc")
+	)
+	(wire
+		(pts
+			(xy 255.27 78.74) (xy 255.27 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "575f0b99-e558-4224-9701-b87c71851347")
+	)
+	(wire
+		(pts
+			(xy 199.39 77.47) (xy 199.39 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "5b7133f7-e572-4c11-a700-f5028217d4f6")
+	)
+	(wire
+		(pts
+			(xy 255.27 83.82) (xy 255.27 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d704fc9-5d0e-46fa-baca-7dc55b807710")
 	)
 	(wire
 		(pts
@@ -3761,17 +3771,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 95.25) (xy 175.26 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "666d046c-516d-409b-bbe3-12946d2b5298")
-	)
-	(wire
-		(pts
-			(xy 189.23 78.74) (xy 186.69 78.74)
+			(xy 217.17 77.47) (xy 214.63 77.47)
 		)
 		(stroke
 			(width 0)
@@ -3781,7 +3781,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 73.66) (xy 201.93 78.74)
+			(xy 229.87 72.39) (xy 229.87 77.47)
 		)
 		(stroke
 			(width 0)
@@ -3821,17 +3821,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 95.25) (xy 200.66 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "748eeb5f-adba-47fa-aa89-3e646cd30ebe")
-	)
-	(wire
-		(pts
-			(xy 184.15 25.4) (xy 186.69 25.4)
+			(xy 212.09 24.13) (xy 214.63 24.13)
 		)
 		(stroke
 			(width 0)
@@ -3851,7 +3841,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 73.66) (xy 189.23 78.74)
+			(xy 217.17 72.39) (xy 217.17 77.47)
 		)
 		(stroke
 			(width 0)
@@ -3861,17 +3851,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 95.25) (xy 170.18 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b3a8f41-0e6e-4335-b52d-b380cc07b8f4")
-	)
-	(wire
-		(pts
-			(xy 194.31 73.66) (xy 194.31 76.2)
+			(xy 222.25 72.39) (xy 222.25 74.93)
 		)
 		(stroke
 			(width 0)
@@ -3921,7 +3901,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 76.2) (xy 196.85 76.2)
+			(xy 222.25 74.93) (xy 224.79 74.93)
 		)
 		(stroke
 			(width 0)
@@ -3951,7 +3931,27 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 55.88) (xy 212.09 78.74)
+			(xy 255.27 38.1) (xy 255.27 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "962ba1e3-a75d-4a05-b72b-9021a33789cb")
+	)
+	(wire
+		(pts
+			(xy 255.27 58.42) (xy 255.27 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96364481-fa9b-4691-a2a5-6fae9f170a96")
+	)
+	(wire
+		(pts
+			(xy 240.03 54.61) (xy 240.03 77.47)
 		)
 		(stroke
 			(width 0)
@@ -3961,7 +3961,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 58.42) (xy 176.53 78.74)
+			(xy 204.47 57.15) (xy 204.47 77.47)
 		)
 		(stroke
 			(width 0)
@@ -3981,7 +3981,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 33.02) (xy 184.15 25.4)
+			(xy 212.09 31.75) (xy 212.09 24.13)
 		)
 		(stroke
 			(width 0)
@@ -3991,7 +3991,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 55.88) (xy 212.09 55.88)
+			(xy 234.95 54.61) (xy 240.03 54.61)
 		)
 		(stroke
 			(width 0)
@@ -4001,7 +4001,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 53.34) (xy 217.17 53.34)
+			(xy 234.95 52.07) (xy 245.11 52.07)
 		)
 		(stroke
 			(width 0)
@@ -4011,7 +4011,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 55.88) (xy 171.45 78.74)
+			(xy 199.39 54.61) (xy 199.39 77.47)
 		)
 		(stroke
 			(width 0)
@@ -4031,7 +4031,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 76.2) (xy 196.85 82.55)
+			(xy 224.79 74.93) (xy 224.79 81.28)
 		)
 		(stroke
 			(width 0)
@@ -4111,13 +4111,23 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 50.8) (xy 161.29 50.8)
+			(xy 204.47 49.53) (xy 189.23 49.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "cccee072-421d-4ac4-9369-13cd72248735")
+	)
+	(wire
+		(pts
+			(xy 255.27 88.9) (xy 255.27 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccd09b49-4bde-48f1-806a-1b68a5e5f2ee")
 	)
 	(wire
 		(pts
@@ -4131,7 +4141,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 53.34) (xy 166.37 78.74)
+			(xy 194.31 52.07) (xy 194.31 77.47)
 		)
 		(stroke
 			(width 0)
@@ -4141,7 +4151,17 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 73.66) (xy 191.77 82.55)
+			(xy 255.27 48.26) (xy 255.27 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3aa6470-13e4-4540-b9a2-d23f94baa417")
+	)
+	(wire
+		(pts
+			(xy 219.71 72.39) (xy 219.71 81.28)
 		)
 		(stroke
 			(width 0)
@@ -4161,7 +4181,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 78.74) (xy 201.93 82.55)
+			(xy 229.87 77.47) (xy 229.87 81.28)
 		)
 		(stroke
 			(width 0)
@@ -4181,7 +4201,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 58.42) (xy 207.01 78.74)
+			(xy 234.95 57.15) (xy 234.95 77.47)
 		)
 		(stroke
 			(width 0)
@@ -4191,13 +4211,13 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 95.25) (xy 190.5 95.25)
+			(xy 255.27 73.66) (xy 255.27 68.58)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e261fb76-1c32-444e-ba0c-55dfd522f86c")
+		(uuid "e1e70a92-ca57-4fa2-a764-0115c23b6778")
 	)
 	(wire
 		(pts
@@ -4221,7 +4241,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 73.66) (xy 181.61 73.66)
+			(xy 214.63 72.39) (xy 209.55 72.39)
 		)
 		(stroke
 			(width 0)
@@ -4231,7 +4251,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 48.26) (xy 207.01 50.8)
+			(xy 234.95 46.99) (xy 234.95 49.53)
 		)
 		(stroke
 			(width 0)
@@ -4241,7 +4261,17 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 78.74) (xy 166.37 82.55)
+			(xy 255.27 43.18) (xy 255.27 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eeecb007-12d2-4865-91c3-975b3c9c5888")
+	)
+	(wire
+		(pts
+			(xy 194.31 77.47) (xy 194.31 81.28)
 		)
 		(stroke
 			(width 0)
@@ -4261,7 +4291,17 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 73.66) (xy 201.93 73.66)
+			(xy 255.27 53.34) (xy 255.27 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f243f936-a845-4e45-afce-052e82ce896c")
+	)
+	(wire
+		(pts
+			(xy 224.79 72.39) (xy 229.87 72.39)
 		)
 		(stroke
 			(width 0)
@@ -4291,13 +4331,23 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 53.34) (xy 217.17 78.74)
+			(xy 245.11 52.07) (xy 245.11 77.47)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f39dcf11-98c5-45d4-83a7-351ab41bcea9")
+	)
+	(wire
+		(pts
+			(xy 255.27 68.58) (xy 255.27 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f72fddb9-12ed-43c7-97ee-e7395a2c8837")
 	)
 	(wire
 		(pts
@@ -4311,23 +4361,13 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 73.66) (xy 181.61 78.74)
+			(xy 209.55 72.39) (xy 209.55 77.47)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "fd92483f-b8e1-45e2-8b9c-28158236a388")
-	)
-	(wire
-		(pts
-			(xy 85.09 149.86) (xy 88.9 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe808224-44fc-42d8-bf4e-4fe486de4616")
 	)
 	(label "UDPI"
 		(at 60.96 119.38 180)
@@ -4340,7 +4380,7 @@
 		(uuid "2ba21bf1-81b5-4a0a-9245-c3bea5a6a68f")
 	)
 	(label "SCL"
-		(at 191.77 33.02 90)
+		(at 219.71 31.75 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4370,7 +4410,7 @@
 		(uuid "4678fe2f-ac9d-4fca-9876-483a8cf62842")
 	)
 	(label "SDA"
-		(at 194.31 33.02 90)
+		(at 222.25 31.75 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4380,12 +4420,12 @@
 		(uuid "5e8b409b-a601-43ed-ad73-ba9ba1541c40")
 	)
 	(label "SCL"
-		(at 88.9 149.86 0)
+		(at 85.09 147.32 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "b4564661-18f0-46b3-95ee-908910ed4b45")
 	)
@@ -4410,7 +4450,7 @@
 		(uuid "b956b34d-d2d9-429a-b319-e8be24855a07")
 	)
 	(label "EN"
-		(at 189.23 19.05 180)
+		(at 217.17 17.78 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4431,7 +4471,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 186.69 82.55 180)
+		(at 214.63 81.28 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4440,8 +4480,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0148e68c-6f4c-4ea9-bdf0-13b72b637416")
-		(property "Reference" "TP5"
-			(at 186.69 88.9 90)
+		(property "Reference" "LED_K5"
+			(at 214.63 89.662 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4451,7 +4491,7 @@
 			)
 		)
 		(property "Value" "5"
-			(at 184.404 85.852 90)
+			(at 212.344 84.582 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4460,8 +4500,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 181.61 82.55 0)
+		(property "Footprint" ""
+			(at 209.55 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4472,7 +4512,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 82.55 0)
+			(at 209.55 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4483,7 +4523,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 186.69 82.55 0)
+			(at 214.63 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4499,7 +4539,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP5")
+					(reference "LED_K5")
 					(unit 1)
 				)
 			)
@@ -4537,7 +4577,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 102.87 133.858 90)
 			(hide yes)
 			(show_name no)
@@ -4694,7 +4734,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
+		(property "Footprint" ""
 			(at 256.54 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -4772,7 +4812,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 246.888 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -5040,7 +5080,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:Jumper_2_Small_Open")
-		(at 199.39 78.74 180)
+		(at 227.33 77.47 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5049,8 +5089,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "145f046f-5acc-4cbd-951f-fa26380f7840")
-		(property "Reference" "JP5"
-			(at 199.39 81.534 0)
+		(property "Reference" "JP7"
+			(at 227.33 80.264 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5060,7 +5100,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 200.6599 77.47 90)
+			(at 228.5999 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5070,8 +5110,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 199.39 78.74 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 227.33 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5082,7 +5122,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 199.39 78.74 0)
+			(at 227.33 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5093,7 +5133,7 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, small symbol, open"
-			(at 199.39 78.74 0)
+			(at 227.33 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5112,7 +5152,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "JP5")
+					(reference "JP7")
 					(unit 1)
 				)
 			)
@@ -5120,7 +5160,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 185.42 95.25 180)
+		(at 255.27 63.5 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5129,8 +5169,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1579b968-2c43-417f-b011-13c81ef20973")
-		(property "Reference" "TP21"
-			(at 185.42 101.6 90)
+		(property "Reference" "LED_A5"
+			(at 262.89 63.5 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5140,7 +5180,7 @@
 			)
 		)
 		(property "Value" "5"
-			(at 183.134 98.552 90)
+			(at 258.572 65.786 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5149,8 +5189,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 180.34 95.25 0)
+		(property "Footprint" ""
+			(at 255.27 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5161,7 +5201,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 180.34 95.25 0)
+			(at 255.27 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5172,7 +5212,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 185.42 95.25 0)
+			(at 255.27 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5188,7 +5228,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP21")
+					(reference "LED_A5")
 					(unit 1)
 				)
 			)
@@ -5365,7 +5405,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 186.69 29.21 0)
+		(at 214.63 27.94 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5375,7 +5415,7 @@
 		(dnp no)
 		(uuid "2b7e1254-39a0-45b8-949b-5d95b25e56a4")
 		(property "Reference" "R1"
-			(at 178.562 27.432 0)
+			(at 206.502 26.162 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5386,7 +5426,7 @@
 			)
 		)
 		(property "Value" "2.94k"
-			(at 178.562 29.972 0)
+			(at 206.502 28.702 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5396,8 +5436,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "QFN40P300X300X80-21N-D"
-			(at 184.912 29.21 90)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 212.852 27.94 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5408,7 +5448,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 29.21 0)
+			(at 214.63 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5419,7 +5459,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 186.69 29.21 0)
+			(at 214.63 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5455,7 +5495,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2c9ae456-1cca-4b66-8d82-43584ffb4ce3")
-		(property "Reference" "C4"
+		(property "Reference" "C7"
 			(at 220.726 115.062 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5475,7 +5515,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" ""
 			(at 224.79 120.9548 0)
 			(hide yes)
 			(show_name no)
@@ -5517,7 +5557,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "C4")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -5633,7 +5673,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 102.87 144.018 90)
 			(hide yes)
 			(show_name no)
@@ -5683,7 +5723,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 215.9 95.25 270)
+		(at 255.27 33.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5693,7 +5733,7 @@
 		(dnp no)
 		(uuid "382cbf1b-f40c-45ef-8aee-cba24f66fd87")
 		(property "Reference" "#PWR027"
-			(at 212.09 95.25 0)
+			(at 255.27 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5704,7 +5744,7 @@
 			)
 		)
 		(property "Value" "VBAT"
-			(at 220.218 95.25 0)
+			(at 255.27 28.702 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5714,7 +5754,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 215.9 95.25 0)
+			(at 255.27 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5725,7 +5765,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 95.25 0)
+			(at 255.27 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5736,7 +5776,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 215.9 95.25 0)
+			(at 255.27 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5760,7 +5800,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 205.74 33.02 270)
+		(at 233.68 31.75 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5769,8 +5809,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "43154577-6038-421c-9e52-8b9658ef6a5e")
-		(property "Reference" "C3"
-			(at 206.248 39.878 90)
+		(property "Reference" "C6"
+			(at 234.188 38.608 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5780,7 +5820,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 206.248 37.338 90)
+			(at 234.188 36.068 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5789,8 +5829,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 201.93 33.9852 0)
+		(property "Footprint" ""
+			(at 229.87 32.7152 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5801,7 +5841,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 33.02 0)
+			(at 233.68 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5812,7 +5852,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 205.74 33.02 0)
+			(at 233.68 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5831,7 +5871,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "C3")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -5868,7 +5908,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 67.31 42.418 90)
 			(hide yes)
 			(show_name no)
@@ -5949,7 +5989,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 238.76 136.398 90)
 			(hide yes)
 			(show_name no)
@@ -6312,7 +6352,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:Jumper_2_Small_Open")
-		(at 204.47 78.74 180)
+		(at 232.41 77.47 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6321,8 +6361,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "52946733-d76a-45bb-8549-babb767d2a5c")
-		(property "Reference" "JP10"
-			(at 206.756 81.534 0)
+		(property "Reference" "JP8"
+			(at 234.188 80.264 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6333,7 +6373,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 205.7399 77.47 90)
+			(at 233.6799 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6343,8 +6383,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 204.47 78.74 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 232.41 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6355,7 +6395,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 204.47 78.74 0)
+			(at 232.41 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6366,7 +6406,7 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, small symbol, open"
-			(at 204.47 78.74 0)
+			(at 232.41 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6385,7 +6425,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "JP10")
+					(reference "JP8")
 					(unit 1)
 				)
 			)
@@ -6393,17 +6433,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 176.53 82.55 180)
+		(at 204.47 81.28 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "58fe640d-aa8f-4794-adf9-258dbd7d5c27")
-		(property "Reference" "TP3"
-			(at 176.53 88.9 90)
+		(property "Reference" "LED_K3"
+			(at 204.216 89.662 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6413,7 +6453,7 @@
 			)
 		)
 		(property "Value" "3"
-			(at 174.244 85.852 90)
+			(at 202.184 84.582 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6422,8 +6462,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 171.45 82.55 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 199.39 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6434,7 +6474,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 82.55 0)
+			(at 199.39 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6445,7 +6485,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 176.53 82.55 0)
+			(at 204.47 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6461,7 +6501,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP3")
+					(reference "LED_K3")
 					(unit 1)
 				)
 			)
@@ -6548,17 +6588,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 165.1 95.25 180)
+		(at 255.27 83.82 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "61e5de06-bcff-404b-869d-374ce100755f")
-		(property "Reference" "TP17"
-			(at 165.1 101.6 90)
+		(property "Reference" "LED_A1"
+			(at 263.144 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6568,7 +6608,7 @@
 			)
 		)
 		(property "Value" "1"
-			(at 162.814 98.552 90)
+			(at 258.572 86.106 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6577,8 +6617,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 160.02 95.25 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 255.27 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6589,7 +6629,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 95.25 0)
+			(at 255.27 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6600,7 +6640,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 165.1 95.25 0)
+			(at 255.27 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6616,7 +6656,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP17")
+					(reference "LED_A1")
 					(unit 1)
 				)
 			)
@@ -6624,17 +6664,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 196.85 82.55 180)
+		(at 224.79 81.28 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "6252da5d-dae7-4a2b-9c7d-35c886cf6183")
-		(property "Reference" "TP7"
-			(at 196.85 88.9 90)
+		(property "Reference" "LED_K7"
+			(at 224.79 89.408 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6644,7 +6684,7 @@
 			)
 		)
 		(property "Value" "7"
-			(at 194.564 85.852 90)
+			(at 222.504 84.582 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6653,8 +6693,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 191.77 82.55 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 219.71 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6665,7 +6705,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 82.55 0)
+			(at 219.71 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6676,7 +6716,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 196.85 82.55 0)
+			(at 224.79 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6692,7 +6732,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP7")
+					(reference "LED_K7")
 					(unit 1)
 				)
 			)
@@ -6700,7 +6740,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 193.04 20.32 90)
+		(at 220.98 19.05 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6710,7 +6750,7 @@
 		(dnp no)
 		(uuid "628df8c9-874c-4b3b-9600-01ea83f4cc2b")
 		(property "Reference" "R2"
-			(at 194.183 15.875 90)
+			(at 222.123 14.605 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6721,7 +6761,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 195.326 18.034 90)
+			(at 223.266 16.764 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6731,8 +6771,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "QFN40P300X300X80-21N-D"
-			(at 193.04 22.098 90)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 220.98 20.828 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6743,7 +6783,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 193.04 20.32 0)
+			(at 220.98 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6754,7 +6794,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 193.04 20.32 0)
+			(at 220.98 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6790,7 +6830,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6296141a-8d45-460a-89d6-25b05c9ad09f")
-		(property "Reference" "C8"
+		(property "Reference" "C1"
 			(at 43.688 112.776 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6801,7 +6841,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 50.292 112.776 90)
+			(at 43.688 109.982 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6810,7 +6850,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 43.18 115.2652 0)
 			(hide yes)
 			(show_name no)
@@ -6852,7 +6892,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "C8")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -6869,7 +6909,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "657c9bb6-6a5a-4fe0-b403-ab24890a21b1")
-		(property "Reference" "C7"
+		(property "Reference" "C3"
 			(at 93.98 129.032 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6891,7 +6931,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 96.8248 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -6933,7 +6973,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "C7")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -6941,17 +6981,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 212.09 82.55 180)
+		(at 240.03 81.28 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "68e139f2-f1c2-4bfb-a360-cb0d5f53a2b8")
-		(property "Reference" "TP10"
-			(at 212.09 88.9 90)
+		(property "Reference" "LED_K10"
+			(at 240.03 89.662 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6961,7 +7001,7 @@
 			)
 		)
 		(property "Value" "10"
-			(at 209.804 85.852 90)
+			(at 237.744 84.582 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6970,8 +7010,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 207.01 82.55 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 234.95 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6982,7 +7022,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 82.55 0)
+			(at 234.95 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6993,7 +7033,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 212.09 82.55 0)
+			(at 240.03 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7009,7 +7049,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP10")
+					(reference "LED_K10")
 					(unit 1)
 				)
 			)
@@ -7017,17 +7057,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 180.34 95.25 180)
+		(at 255.27 68.58 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "6a121daf-ac15-46f0-996c-c9764e050ac1")
-		(property "Reference" "TP20"
-			(at 180.34 101.6 90)
+		(property "Reference" "LED_A4"
+			(at 262.89 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7037,7 +7077,7 @@
 			)
 		)
 		(property "Value" "4"
-			(at 178.054 98.552 90)
+			(at 258.572 70.866 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7046,8 +7086,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 175.26 95.25 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 255.27 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7058,7 +7098,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 175.26 95.25 0)
+			(at 255.27 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7069,7 +7109,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 180.34 95.25 0)
+			(at 255.27 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7085,7 +7125,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP20")
+					(reference "LED_A4")
 					(unit 1)
 				)
 			)
@@ -7093,17 +7133,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 166.37 82.55 180)
+		(at 194.31 81.28 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "6ade007e-2c79-4c86-8680-eee50e58ed39")
-		(property "Reference" "TP1"
-			(at 166.37 88.9 90)
+		(property "Reference" "LED_K1"
+			(at 194.31 89.408 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7113,7 +7153,7 @@
 			)
 		)
 		(property "Value" "1"
-			(at 164.084 85.852 90)
+			(at 192.024 84.582 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7122,8 +7162,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 161.29 82.55 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 189.23 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7134,7 +7174,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.29 82.55 0)
+			(at 189.23 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7145,7 +7185,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 166.37 82.55 0)
+			(at 194.31 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7161,7 +7201,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP1")
+					(reference "LED_K1")
 					(unit 1)
 				)
 			)
@@ -7248,17 +7288,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 215.9 95.25 180)
+		(at 255.27 33.02 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "6c5b20ef-d0c0-44d3-ac3d-2e27fc36d74d")
-		(property "Reference" "TP27"
-			(at 215.9 101.6 90)
+		(property "Reference" "LED_A11"
+			(at 263.398 33.02 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7268,7 +7308,7 @@
 			)
 		)
 		(property "Value" "11"
-			(at 213.614 98.552 90)
+			(at 258.572 35.306 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7277,8 +7317,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 210.82 95.25 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 255.27 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7289,7 +7329,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 210.82 95.25 0)
+			(at 255.27 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7300,7 +7340,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 215.9 95.25 0)
+			(at 255.27 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7316,7 +7356,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP27")
+					(reference "LED_A11")
 					(unit 1)
 				)
 			)
@@ -7403,7 +7443,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 176.53 40.64 180)
+		(at 204.47 39.37 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7414,7 +7454,7 @@
 		(fields_autoplaced yes)
 		(uuid "7052a7f1-7034-4a69-9b7e-83ed3353d698")
 		(property "Reference" "#PWR07"
-			(at 176.53 34.29 0)
+			(at 204.47 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7425,7 +7465,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 176.53 35.56 0)
+			(at 204.47 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7435,7 +7475,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 40.64 0)
+			(at 204.47 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7446,7 +7486,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 40.64 0)
+			(at 204.47 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7457,7 +7497,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 176.53 40.64 0)
+			(at 204.47 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7510,7 +7550,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
+		(property "Footprint" ""
 			(at 71.12 127 0)
 			(hide yes)
 			(show_name no)
@@ -7557,17 +7597,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 201.93 82.55 180)
+		(at 229.87 81.28 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "752c21b6-8d9e-498c-bb94-14f081a606a4")
-		(property "Reference" "TP8"
-			(at 202.184 89.154 90)
+		(property "Reference" "LED_K8"
+			(at 229.87 89.408 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7577,7 +7617,7 @@
 			)
 		)
 		(property "Value" "8"
-			(at 199.644 85.852 90)
+			(at 227.584 84.582 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7586,8 +7626,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 196.85 82.55 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 224.79 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7598,7 +7638,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.85 82.55 0)
+			(at 224.79 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7609,7 +7649,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 201.93 82.55 0)
+			(at 229.87 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7625,7 +7665,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP8")
+					(reference "LED_K8")
 					(unit 1)
 				)
 			)
@@ -7633,17 +7673,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 195.58 95.25 180)
+		(at 255.27 53.34 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "77579cc7-4eb8-4bf2-8da2-cc7f7923627c")
-		(property "Reference" "TP23"
-			(at 195.58 101.6 90)
+		(property "Reference" "LED_A7"
+			(at 262.89 53.34 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7653,7 +7693,7 @@
 			)
 		)
 		(property "Value" "7"
-			(at 193.294 98.552 90)
+			(at 258.572 55.626 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7662,8 +7702,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 190.5 95.25 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 255.27 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7674,7 +7714,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 95.25 0)
+			(at 255.27 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7685,7 +7725,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 195.58 95.25 0)
+			(at 255.27 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7701,7 +7741,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP23")
+					(reference "LED_A7")
 					(unit 1)
 				)
 			)
@@ -7709,7 +7749,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:Jumper_2_Small_Open")
-		(at 173.99 78.74 0)
+		(at 201.93 77.47 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -7719,8 +7759,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "79c50fe7-099a-4ce7-9fe6-1d44678d8900")
-		(property "Reference" "JP9"
-			(at 173.99 81.534 0)
+		(property "Reference" "JP3"
+			(at 201.93 80.264 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7730,7 +7770,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 172.7201 77.47 90)
+			(at 200.6601 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7740,8 +7780,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 173.99 78.74 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 201.93 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7752,7 +7792,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.99 78.74 0)
+			(at 201.93 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7763,7 +7803,7 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, small symbol, open"
-			(at 173.99 78.74 0)
+			(at 201.93 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7782,7 +7822,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "JP9")
+					(reference "JP3")
 					(unit 1)
 				)
 			)
@@ -7790,7 +7830,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:Jumper_2_Small_Open")
-		(at 184.15 78.74 180)
+		(at 212.09 77.47 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7799,8 +7839,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7bcd1b39-fdb6-4e07-bc57-c5c1299ae0cb")
-		(property "Reference" "JP4"
-			(at 184.404 81.28 0)
+		(property "Reference" "JP5"
+			(at 212.09 80.264 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7810,7 +7850,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 185.4199 77.47 90)
+			(at 213.3599 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7820,8 +7860,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 184.15 78.74 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 212.09 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7832,7 +7872,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.15 78.74 0)
+			(at 212.09 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7843,7 +7883,7 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, small symbol, open"
-			(at 184.15 78.74 0)
+			(at 212.09 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7862,7 +7902,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "JP4")
+					(reference "JP5")
 					(unit 1)
 				)
 			)
@@ -7947,7 +7987,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:Jumper_2_Small_Open")
-		(at 214.63 78.74 180)
+		(at 242.57 77.47 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7956,8 +7996,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "82e08535-4565-4ccd-bd74-5a6df1a1f9a2")
-		(property "Reference" "JP7"
-			(at 214.63 81.534 0)
+		(property "Reference" "JP10"
+			(at 242.57 80.264 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7967,7 +8007,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 215.8999 77.47 90)
+			(at 243.8399 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7977,8 +8017,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 214.63 78.74 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 242.57 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7989,7 +8029,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 214.63 78.74 0)
+			(at 242.57 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8000,7 +8040,7 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, small symbol, open"
-			(at 214.63 78.74 0)
+			(at 242.57 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8019,7 +8059,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "JP7")
+					(reference "JP10")
 					(unit 1)
 				)
 			)
@@ -8027,17 +8067,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 160.02 95.25 180)
+		(at 255.27 88.9 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "8429124c-6623-4bfb-ae2b-dc6e36a6c9a4")
-		(property "Reference" "TP16"
-			(at 160.02 101.6 90)
+		(property "Reference" "LED_A0"
+			(at 263.398 88.9 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8047,7 +8087,7 @@
 			)
 		)
 		(property "Value" "0"
-			(at 157.734 98.552 90)
+			(at 258.572 91.186 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8056,8 +8096,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 154.94 95.25 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 255.27 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8068,7 +8108,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 95.25 0)
+			(at 255.27 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8079,7 +8119,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 160.02 95.25 0)
+			(at 255.27 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8095,7 +8135,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP16")
+					(reference "LED_A0")
 					(unit 1)
 				)
 			)
@@ -8103,17 +8143,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 205.74 95.25 180)
+		(at 255.27 43.18 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "88dcaa98-be0a-4bce-ad0d-e1197edfe5df")
-		(property "Reference" "TP25"
-			(at 205.74 101.6 90)
+		(property "Reference" "LED_A9"
+			(at 262.89 43.18 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8123,7 +8163,7 @@
 			)
 		)
 		(property "Value" "9"
-			(at 203.454 98.552 90)
+			(at 258.572 45.466 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8132,8 +8172,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 200.66 95.25 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 255.27 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8144,7 +8184,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 200.66 95.25 0)
+			(at 255.27 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8155,7 +8195,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 205.74 95.25 0)
+			(at 255.27 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8171,7 +8211,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP25")
+					(reference "LED_A9")
 					(unit 1)
 				)
 			)
@@ -8208,7 +8248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" ""
 			(at 111.76 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -8258,17 +8298,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 190.5 95.25 180)
+		(at 255.27 58.42 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "9218d478-e50d-4837-9ed8-a0e55ec3916e")
-		(property "Reference" "TP22"
-			(at 190.5 101.6 90)
+		(property "Reference" "LED_A6"
+			(at 262.89 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8278,7 +8318,7 @@
 			)
 		)
 		(property "Value" "6"
-			(at 188.214 98.552 90)
+			(at 258.572 60.706 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8287,8 +8327,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 185.42 95.25 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 255.27 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8299,7 +8339,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 95.25 0)
+			(at 255.27 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8310,7 +8350,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 190.5 95.25 0)
+			(at 255.27 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8326,7 +8366,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP22")
+					(reference "LED_A6")
 					(unit 1)
 				)
 			)
@@ -8366,7 +8406,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 86.868 153.67 90)
 			(hide yes)
 			(show_name no)
@@ -8445,7 +8485,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 67.31 41.402 90)
 			(hide yes)
 			(show_name no)
@@ -8524,7 +8564,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
+		(property "Footprint" ""
 			(at 71.12 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -8571,7 +8611,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:Jumper_2_Small_Open")
-		(at 179.07 78.74 180)
+		(at 207.01 77.47 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8580,8 +8620,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9e2ae736-769e-4e71-9b24-3c8eef40305f")
-		(property "Reference" "JP3"
-			(at 179.07 81.28 0)
+		(property "Reference" "JP4"
+			(at 207.01 80.264 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8591,7 +8631,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 180.3399 77.47 90)
+			(at 208.2799 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8601,8 +8641,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 179.07 78.74 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 207.01 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8613,7 +8653,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 78.74 0)
+			(at 207.01 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8624,7 +8664,7 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, small symbol, open"
-			(at 179.07 78.74 0)
+			(at 207.01 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8643,7 +8683,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "JP3")
+					(reference "JP4")
 					(unit 1)
 				)
 			)
@@ -8809,7 +8849,7 @@
 	)
 	(symbol
 		(lib_id "LP5012RUKR:LP5012RUKR")
-		(at 176.53 48.26 0)
+		(at 204.47 46.99 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8819,7 +8859,7 @@
 		(dnp no)
 		(uuid "a5ed5f61-c824-48a1-8779-02356fe1aaf8")
 		(property "Reference" "IC1"
-			(at 189.484 53.086 90)
+			(at 217.424 51.816 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8829,7 +8869,7 @@
 			)
 		)
 		(property "Value" "LP5012RUKR"
-			(at 192.024 53.086 90)
+			(at 219.964 51.816 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8839,7 +8879,7 @@
 			)
 		)
 		(property "Footprint" "QFN40P300X300X80-21N-D"
-			(at 203.2 135.56 0)
+			(at 231.14 134.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8851,7 +8891,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/LP5012"
-			(at 203.2 235.56 0)
+			(at 231.14 234.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8863,7 +8903,7 @@
 			)
 		)
 		(property "Description" "12-Channel I2C constant-current RGB LED driver"
-			(at 176.53 48.26 0)
+			(at 204.47 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8874,7 +8914,7 @@
 			)
 		)
 		(property "Height" "0.8"
-			(at 203.2 435.56 0)
+			(at 231.14 434.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8886,7 +8926,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Texas Instruments"
-			(at 203.2 535.56 0)
+			(at 231.14 534.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8898,7 +8938,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "LP5012RUKR"
-			(at 203.2 635.56 0)
+			(at 231.14 634.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8910,7 +8950,7 @@
 			)
 		)
 		(property "Mouser Part Number" "595-LP5012RUKR"
-			(at 203.2 735.56 0)
+			(at 231.14 734.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8922,7 +8962,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LP5012RUKR?qs=mAH9sUMRCts7Z0PlkfxWfA%3D%3D"
-			(at 203.2 835.56 0)
+			(at 231.14 834.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8934,7 +8974,7 @@
 			)
 		)
 		(property "Arrow Part Number" "LP5012RUKR"
-			(at 203.2 935.56 0)
+			(at 231.14 934.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8946,7 +8986,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/lp5012rukr/texas-instruments.html?utm_currency=USD&region=nac"
-			(at 203.2 1035.56 0)
+			(at 231.14 1034.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9031,17 +9071,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 171.45 82.55 180)
+		(at 199.39 81.28 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "a674a97b-e414-41ee-ab62-54b588a7105f")
-		(property "Reference" "TP2"
-			(at 171.45 88.9 90)
+		(property "Reference" "LED_K2"
+			(at 199.39 89.408 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9051,7 +9091,7 @@
 			)
 		)
 		(property "Value" "2"
-			(at 169.164 85.852 90)
+			(at 197.104 84.582 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9060,8 +9100,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 166.37 82.55 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 194.31 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9072,7 +9112,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 82.55 0)
+			(at 194.31 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9083,7 +9123,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 171.45 82.55 0)
+			(at 199.39 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9099,7 +9139,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP2")
+					(reference "LED_K2")
 					(unit 1)
 				)
 			)
@@ -9107,17 +9147,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 200.66 95.25 180)
+		(at 255.27 48.26 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "a8260eda-a864-4399-909d-b8236c349284")
-		(property "Reference" "TP24"
-			(at 200.914 101.854 90)
+		(property "Reference" "LED_A8"
+			(at 262.89 48.006 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9127,7 +9167,7 @@
 			)
 		)
 		(property "Value" "8"
-			(at 198.374 98.552 90)
+			(at 258.572 50.546 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9136,8 +9176,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 195.58 95.25 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 255.27 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9148,7 +9188,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 195.58 95.25 0)
+			(at 255.27 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9159,7 +9199,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 200.66 95.25 0)
+			(at 255.27 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9175,7 +9215,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP24")
+					(reference "LED_A8")
 					(unit 1)
 				)
 			)
@@ -9183,7 +9223,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 176.53 44.45 180)
+		(at 204.47 43.18 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9192,8 +9232,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a9bbcfb8-e09b-4eb4-9c0a-b9a6ad7093fe")
-		(property "Reference" "C2"
-			(at 170.18 44.704 90)
+		(property "Reference" "C5"
+			(at 198.12 43.434 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9203,7 +9243,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 172.72 44.704 90)
+			(at 200.66 43.434 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9212,8 +9252,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 175.5648 40.64 0)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+			(at 203.5048 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9224,7 +9264,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 44.45 0)
+			(at 204.47 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9235,7 +9275,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 176.53 44.45 0)
+			(at 204.47 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9254,7 +9294,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "C2")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -9262,7 +9302,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:Jumper_2_Small_Open")
-		(at 168.91 78.74 180)
+		(at 196.85 77.47 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9272,7 +9312,7 @@
 		(dnp no)
 		(uuid "aba672f0-a3a0-454d-8414-10bcd00686b3")
 		(property "Reference" "JP2"
-			(at 167.386 81.534 0)
+			(at 195.326 80.264 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9283,7 +9323,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 170.1799 77.47 90)
+			(at 198.1199 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9293,8 +9333,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 168.91 78.74 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 196.85 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9305,7 +9345,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 78.74 0)
+			(at 196.85 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9316,7 +9356,7 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, small symbol, open"
-			(at 168.91 78.74 0)
+			(at 196.85 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9343,7 +9383,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:Jumper_2_Small_Open")
-		(at 209.55 78.74 180)
+		(at 237.49 77.47 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9352,8 +9392,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ac5eaa3c-929c-44f9-9291-4ad5728ff5d6")
-		(property "Reference" "JP8"
-			(at 209.55 81.534 0)
+		(property "Reference" "JP9"
+			(at 237.49 80.264 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9363,7 +9403,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 210.8199 77.47 90)
+			(at 238.7599 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9373,8 +9413,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 209.55 78.74 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 237.49 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9385,7 +9425,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 209.55 78.74 0)
+			(at 237.49 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9396,7 +9436,7 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, small symbol, open"
-			(at 209.55 78.74 0)
+			(at 237.49 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9415,7 +9455,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "JP8")
+					(reference "JP9")
 					(unit 1)
 				)
 			)
@@ -9432,7 +9472,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ae83cc4e-547f-4370-9496-01f4ea2f386b")
-		(property "Reference" "C5"
+		(property "Reference" "C8"
 			(at 233.426 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9452,7 +9492,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" ""
 			(at 236.5248 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -9494,7 +9534,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "C5")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -9615,7 +9655,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 80.01 46.482 90)
 			(hide yes)
 			(show_name no)
@@ -9665,7 +9705,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 207.01 48.26 90)
+		(at 234.95 46.99 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9676,7 +9716,7 @@
 		(fields_autoplaced yes)
 		(uuid "b37f65e0-8a8e-44ea-82e0-c3a274ea9089")
 		(property "Reference" "#PWR06"
-			(at 213.36 48.26 0)
+			(at 241.3 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9687,7 +9727,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 210.82 48.2599 90)
+			(at 238.76 46.9899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9698,7 +9738,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 207.01 48.26 0)
+			(at 234.95 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9709,7 +9749,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 48.26 0)
+			(at 234.95 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9720,7 +9760,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 207.01 48.26 0)
+			(at 234.95 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9744,7 +9784,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 201.93 30.48 0)
+		(at 229.87 29.21 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9754,7 +9794,7 @@
 		(dnp no)
 		(uuid "b3fee675-098d-4a35-9aae-86ecbf295ca2")
 		(property "Reference" "#PWR08"
-			(at 201.93 34.29 0)
+			(at 229.87 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9765,7 +9805,7 @@
 			)
 		)
 		(property "Value" "VBAT"
-			(at 201.93 26.162 0)
+			(at 229.87 24.892 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9775,7 +9815,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 201.93 30.48 0)
+			(at 229.87 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9786,7 +9826,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 201.93 30.48 0)
+			(at 229.87 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9797,7 +9837,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 201.93 30.48 0)
+			(at 229.87 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9851,7 +9891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" ""
 			(at 111.76 127 0)
 			(hide yes)
 			(show_name no)
@@ -9901,17 +9941,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 191.77 82.55 180)
+		(at 219.71 81.28 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "b5ca2bff-b994-474d-b79e-728ac5c6d23b")
-		(property "Reference" "TP6"
-			(at 191.77 88.9 90)
+		(property "Reference" "LED_K6"
+			(at 219.71 89.408 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9921,7 +9961,7 @@
 			)
 		)
 		(property "Value" "6"
-			(at 189.484 85.852 90)
+			(at 217.424 84.582 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9930,8 +9970,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 186.69 82.55 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 214.63 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9942,7 +9982,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 82.55 0)
+			(at 214.63 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9953,7 +9993,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 191.77 82.55 0)
+			(at 219.71 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9969,7 +10009,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP6")
+					(reference "LED_K6")
 					(unit 1)
 				)
 			)
@@ -9977,17 +10017,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 181.61 82.55 180)
+		(at 209.55 81.28 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "b6e6128e-1348-4b9f-a47d-c21098c20680")
-		(property "Reference" "TP4"
-			(at 181.61 88.9 90)
+		(property "Reference" "LED_K4"
+			(at 209.55 89.662 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9997,7 +10037,7 @@
 			)
 		)
 		(property "Value" "4"
-			(at 179.324 85.852 90)
+			(at 207.264 84.582 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10006,8 +10046,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 176.53 82.55 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 204.47 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10018,7 +10058,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 82.55 0)
+			(at 204.47 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10029,7 +10069,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 181.61 82.55 0)
+			(at 209.55 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10045,7 +10085,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP4")
+					(reference "LED_K4")
 					(unit 1)
 				)
 			)
@@ -10053,7 +10093,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 209.55 33.02 90)
+		(at 237.49 31.75 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10064,7 +10104,7 @@
 		(fields_autoplaced yes)
 		(uuid "b82795a2-1fe0-477c-8cd7-fa39e53fe25c")
 		(property "Reference" "#PWR09"
-			(at 215.9 33.02 0)
+			(at 243.84 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10075,7 +10115,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 213.36 33.0199 90)
+			(at 241.3 31.7499 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10086,7 +10126,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 209.55 33.02 0)
+			(at 237.49 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10097,7 +10137,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 209.55 33.02 0)
+			(at 237.49 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10108,7 +10148,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 209.55 33.02 0)
+			(at 237.49 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10132,7 +10172,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:Jumper_2_Small_Open")
-		(at 194.31 78.74 180)
+		(at 222.25 77.47 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10142,7 +10182,7 @@
 		(dnp no)
 		(uuid "b84d8519-8d09-4263-b60b-a2d42456ea40")
 		(property "Reference" "JP6"
-			(at 194.31 81.534 0)
+			(at 222.25 80.264 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10152,7 +10192,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 195.5799 77.47 90)
+			(at 223.5199 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10162,8 +10202,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 194.31 78.74 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 222.25 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10174,7 +10214,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 194.31 78.74 0)
+			(at 222.25 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10185,7 +10225,7 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, small symbol, open"
-			(at 194.31 78.74 0)
+			(at 222.25 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10212,17 +10252,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 170.18 95.25 180)
+		(at 255.27 78.74 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "b9b11d69-9fef-4ae2-8161-d2817110388c")
-		(property "Reference" "TP18"
-			(at 170.18 101.6 90)
+		(property "Reference" "LED_A2"
+			(at 263.144 78.486 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10232,7 +10272,7 @@
 			)
 		)
 		(property "Value" "2"
-			(at 167.894 98.552 90)
+			(at 258.572 81.026 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10241,8 +10281,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 165.1 95.25 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 255.27 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10253,7 +10293,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 95.25 0)
+			(at 255.27 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10264,7 +10304,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 170.18 95.25 0)
+			(at 255.27 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10280,7 +10320,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP18")
+					(reference "LED_A2")
 					(unit 1)
 				)
 			)
@@ -10317,7 +10357,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
+		(property "Footprint" ""
 			(at 256.54 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -10529,8 +10569,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ccc1eea8-455a-45cc-9cb7-4209ff91bd44")
-		(property "Reference" "C1"
-			(at 44.704 120.904 90)
+		(property "Reference" "C2"
+			(at 43.688 120.904 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10540,7 +10580,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 45.974 123.19 90)
+			(at 43.434 123.19 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10549,7 +10589,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 50.8 118.4148 0)
 			(hide yes)
 			(show_name no)
@@ -10591,7 +10631,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "C1")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -10599,17 +10639,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 217.17 82.55 180)
+		(at 245.11 81.28 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "d117d588-11b8-4883-9c7a-81e13b17f857")
-		(property "Reference" "TP11"
-			(at 217.17 88.9 90)
+		(property "Reference" "LED_K11"
+			(at 245.11 89.662 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10619,7 +10659,7 @@
 			)
 		)
 		(property "Value" "11"
-			(at 214.884 85.852 90)
+			(at 242.824 84.582 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10628,8 +10668,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 212.09 82.55 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 240.03 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10640,7 +10680,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 212.09 82.55 0)
+			(at 240.03 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10651,7 +10691,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 217.17 82.55 0)
+			(at 245.11 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10667,7 +10707,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP11")
+					(reference "LED_K11")
 					(unit 1)
 				)
 			)
@@ -10675,17 +10715,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 161.29 82.55 180)
+		(at 189.23 81.28 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "d19633ba-fdda-47d2-bb09-82adb5d32f55")
-		(property "Reference" "TP0"
-			(at 161.29 88.9 90)
+		(property "Reference" "LED_K0"
+			(at 189.23 89.662 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10695,7 +10735,7 @@
 			)
 		)
 		(property "Value" "0"
-			(at 159.004 85.852 90)
+			(at 186.944 84.582 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10704,8 +10744,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 156.21 82.55 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 184.15 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10716,7 +10756,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 82.55 0)
+			(at 184.15 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10727,7 +10767,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 161.29 82.55 0)
+			(at 189.23 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10743,7 +10783,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP0")
+					(reference "LED_K0")
 					(unit 1)
 				)
 			)
@@ -10751,17 +10791,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 210.82 95.25 180)
+		(at 255.27 38.1 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "d33b5b16-42a4-4cfd-84b4-9944717b1185")
-		(property "Reference" "TP26"
-			(at 210.82 101.6 90)
+		(property "Reference" "LED_A10"
+			(at 263.652 38.1 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10771,7 +10811,7 @@
 			)
 		)
 		(property "Value" "10"
-			(at 208.534 98.552 90)
+			(at 258.572 40.386 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10780,8 +10820,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 205.74 95.25 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 255.27 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10792,7 +10832,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 95.25 0)
+			(at 255.27 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10803,7 +10843,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 210.82 95.25 0)
+			(at 255.27 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10819,7 +10859,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP26")
+					(reference "LED_A10")
 					(unit 1)
 				)
 			)
@@ -10859,7 +10899,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 75.438 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -11065,7 +11105,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 212.852 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -11193,7 +11233,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 196.85 20.32 90)
+		(at 224.79 19.05 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11203,7 +11243,7 @@
 		(dnp no)
 		(uuid "e27ab995-e9c8-4013-9bee-e2fa369d6d24")
 		(property "Reference" "#PWR011"
-			(at 203.2 20.32 0)
+			(at 231.14 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11214,7 +11254,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 198.374 17.526 90)
+			(at 226.314 16.256 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11224,7 +11264,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 196.85 20.32 0)
+			(at 224.79 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11235,7 +11275,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.85 20.32 0)
+			(at 224.79 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11246,7 +11286,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 196.85 20.32 0)
+			(at 224.79 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11270,17 +11310,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 175.26 95.25 180)
+		(at 255.27 73.66 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "e7223348-696b-4f35-8ad8-a1eb7dd1cdf1")
-		(property "Reference" "TP19"
-			(at 175.26 101.6 90)
+		(property "Reference" "LED_A3"
+			(at 263.144 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11290,7 +11330,7 @@
 			)
 		)
 		(property "Value" "3"
-			(at 172.974 98.552 90)
+			(at 258.572 75.946 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11299,8 +11339,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 170.18 95.25 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 255.27 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11311,7 +11351,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 95.25 0)
+			(at 255.27 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11322,7 +11362,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 175.26 95.25 0)
+			(at 255.27 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11338,7 +11378,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP19")
+					(reference "LED_A3")
 					(unit 1)
 				)
 			)
@@ -11375,7 +11415,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
+		(property "Footprint" ""
 			(at 71.12 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -11422,17 +11462,17 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 207.01 82.55 180)
+		(at 234.95 81.28 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "e94e4e0a-75b1-4650-972d-5d5a46573661")
-		(property "Reference" "TP9"
-			(at 207.01 88.9 90)
+		(property "Reference" "LED_K9"
+			(at 234.95 89.408 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11442,7 +11482,7 @@
 			)
 		)
 		(property "Value" "9"
-			(at 204.724 85.852 90)
+			(at 232.664 84.582 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11451,8 +11491,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
-			(at 201.93 82.55 0)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 229.87 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11463,7 +11503,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 201.93 82.55 0)
+			(at 229.87 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11474,7 +11514,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 207.01 82.55 0)
+			(at 234.95 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11490,7 +11530,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "TP9")
+					(reference "LED_K9")
 					(unit 1)
 				)
 			)
@@ -11652,7 +11692,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 186.69 22.86 180)
+		(at 214.63 21.59 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11662,7 +11702,7 @@
 		(dnp no)
 		(uuid "f53f7ac6-5f05-4a85-ae33-cd7ae4f18c67")
 		(property "Reference" "#PWR010"
-			(at 186.69 16.51 0)
+			(at 214.63 15.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11673,7 +11713,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 182.88 21.336 0)
+			(at 210.82 20.066 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11683,7 +11723,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 186.69 22.86 0)
+			(at 214.63 21.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11694,7 +11734,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 22.86 0)
+			(at 214.63 21.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11705,7 +11745,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 186.69 22.86 0)
+			(at 214.63 21.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11738,8 +11778,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f5d7b63a-cf87-4c33-8e31-fa3e3e3aaf12")
-		(property "Reference" "C6"
-			(at 101.6 145.288 0)
+		(property "Reference" "C4"
+			(at 91.694 145.034 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11750,7 +11790,7 @@
 			)
 		)
 		(property "Value" "10nF"
-			(at 101.6 147.828 0)
+			(at 91.694 147.574 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11760,7 +11800,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 98.7552 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -11802,7 +11842,7 @@
 		(instances
 			(project "sad"
 				(path "/fd7c1564-7ef5-4234-8349-9f9a4283d478"
-					(reference "C6")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -11810,7 +11850,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:Jumper_2_Small_Open")
-		(at 163.83 78.74 180)
+		(at 191.77 77.47 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11820,7 +11860,7 @@
 		(dnp no)
 		(uuid "f60f26fa-e053-4677-bafd-3d00448888f6")
 		(property "Reference" "JP1"
-			(at 162.052 81.534 0)
+			(at 189.992 80.264 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11831,7 +11871,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 165.0999 77.47 90)
+			(at 193.0399 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11841,8 +11881,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 163.83 78.74 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 191.77 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11853,7 +11893,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 78.74 0)
+			(at 191.77 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11864,7 +11904,7 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, small symbol, open"
-			(at 163.83 78.74 0)
+			(at 191.77 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11920,7 +11960,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
+		(property "Footprint" ""
 			(at 71.12 124.46 0)
 			(hide yes)
 			(show_name no)
