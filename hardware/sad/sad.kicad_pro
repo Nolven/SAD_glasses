@@ -715,7 +715,7 @@
         "uuid": "fd7c1564-7ef5-4234-8349-9f9a4283d478"
       }
     ],
-    "used_designators": "IC1,TP1-27,JP1-10,R1-12,C1-8,D1-2,#PWR1-27,BT1,U1-2,J1-2,SW1-2,UDPI1",
+    "used_designators": "IC1,R1-12,TP1-27,UDPI1,JP1-11,C1-8,#PWR1-27,#PWR29-33,BT1,D1-2,U1-2,J1-2,SW1-2,BAT_GND1,BAT_VCC1,S1-2",
     "variants": []
   },
   "sheets": [
